@@ -11,7 +11,7 @@ File "crafting.lua" isn't actually used and is empty because crafting will be ad
 
 Actually isn't supported baking and eating of pizzas, cakes or other circle food. It could be in future. Planned is too "bake level tool".
 
-Creating own pizzas are simple: download pizzas_pack1, copy and edit texture in pizzas_pack1, edit file "pizzas.lua" in pizzas_pack1 and save it.
+Creating own pizzas are simple: download both pizzas and pizzas_pack1, copy and edit texture in pizzas_pack1, edit file "pizzas.lua" in pizzas_pack1 and save it.
  It is very simple :)
  When do you want to share your pizzas as mod, please, do not it as pull request but:
  create it as your own mod pizzas_* and to end of your pizzas names add your name/initials (for not duplication of pizza name).
