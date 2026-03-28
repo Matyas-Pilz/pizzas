@@ -19,5 +19,9 @@
 3. edit file "pizzas.lua" in pizzas_pack1 and save it.
 It is very simple :)
 
-When do you want to share your pizzas as mod, please, do not it as pull request but:
-create it as your own mod pizzas_* and to end of your pizzas names add your name/initials (for not duplication of pizza name).
+When do you want to share your pizzas, you have (not only) these options:
+1. Share it as own mod
+2. Create issue or pull request into https://github.com/Matyas-Pilz/pizzas_communitypack_handmade (to name of pizza add your nickname)
+3. Share in on Luanti forum into https://forum.luanti.org/viewtopic.php?t=31941
+
+But, please, do not it as pull request into this mod.
